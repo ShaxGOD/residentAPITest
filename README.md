@@ -1,5 +1,4 @@
 # residentAPITest
-Test task for Limavi: part 2 - API Automation
 
 ## Installation
 1. Install project via .zip file or create new project and clone on Vs Code
